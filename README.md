@@ -1,4 +1,4 @@
-👋 Hi, I’m Patrick, a DevSecOps engineer based in Nairobi.
+👋 Hi, I’m Patrick, a Platform Engineer / DevSecOps engineer based in Nairobi.
 
 <!---
 patrickgatiri/patrickgatiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
